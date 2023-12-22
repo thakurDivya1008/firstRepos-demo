@@ -1,3 +1,3 @@
 # firstRepos-demo
 This is my first Git Repository.
-Auther- Divya Kumari.
+Author- Divya Kumari.
